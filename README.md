@@ -1,9 +1,6 @@
-# VS2015 Dark Theme for Notepad++
+# TCS Theme for Notepad++
 
-- [Atom Version](https://github.com/Nidre/VS2015-Dark-Atom/)
-- [Android Studio / IntelliJ Version](https://github.com/Nidre/VS2015-Dark-Android-Studio/)
-
-This is as close as I can get to a replica of the Visual Studio 2015's Dark theme in Notepad++. I created it to ease switching between files opened in Visual Studio and Notepad++. Particularly close attention has been paid to C, C++, and XML but a number of other languages have been tested.
+Theme created to help newcomers with Football Manager skinning.
 
 Installation
 --------------------------
@@ -14,20 +11,10 @@ Installation
 4. Place downloaded **.xml** file inside the folder.
 2. Restart Notepad++.
 3. Open *Settings->Style Configurator*.
-4. Select **VS2015-Dark** from the theme drop-down box.
+4. Select **TCS-Npp.xml** from the theme drop-down box.
 5. Click **Save & Close**
-
-FAQ
-----
-**Load stylers.xml failed!**
-
-https://github.com/Nidre/VS2015-Dark-Npp/issues?utf8=%E2%9C%93&q=is%3Aissue%20Load%20stylers.xml%20failed!
 
 Issues
 ------
 
 If you find anything else wrong, feel free to [let me know](https://github.com/Nidre/VS2015-Dark-Npp/issues/new).
-
-Screenshot
-----------
-![Screenshot](https://github.com/Nidre/VS2015-Dark-Npp/blob/master/screenshot.png "Screenshot")
