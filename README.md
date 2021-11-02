@@ -2,6 +2,8 @@
 
 Theme created to help newcomers with Football Manager skinning.
 
+![Example](https://raw.githubusercontent.com/bluestillidie00/TCS-Npp/master/Example.png)
+
 Installation
 --------------------------
 
@@ -13,6 +15,11 @@ Installation
 3. Open *Settings->Style Configurator*.
 4. Select **TCS-Npp.xml** from the theme drop-down box.
 5. Click **Save & Close**
+
+Fonts
+-------
+
+I've attatched the relevant font that I use which is provided by Apple.
 
 Issues
 ------
