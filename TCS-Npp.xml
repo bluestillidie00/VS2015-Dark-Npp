@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
-<!--//
 
+<!--//
 Style name:  TCS Theme for Notepad++.
 Author:      Bluestillidie00
 Description: A theme designed for newcomers to Notepad++. Forked from https://github.com/Ludomancer/VS2015-Dark-Npp
 Languages:   XML
-Note:        I don't claim any ownership of this theme. It isa change of another.
-
+Note:        I don't claim any ownership of this theme. It is an adaptationof another skin
 //-->
+
 <NotepadPlus>
     <LexerStyles>
         <LexerType name="c" desc="C" ext="cw">
